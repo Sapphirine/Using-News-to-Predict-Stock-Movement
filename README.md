@@ -1,6 +1,6 @@
 # Using-News-to-Predict-Stock-Movement
 Final project (id: 201812-38) of Fall 2018 [EECS E6893 Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html).<br/>
-Member: Hung-Yi Ou Yang (ho2271), Yining Zhou (yz3428), and Chenyao Liao (cl3757)
+Member: Hung-Yi Ou Yang (ho2271), Yining Zhou (yz3428), and Chenyao Liao (cl3757).
 
 ## Introduction
 In this project, we participate in the [two-sigma competition](https://www.kaggle.com/c/two-sigma-financial-news) on Kaggle. 
