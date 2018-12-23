@@ -1,5 +1,5 @@
 # Using-News-to-Predict-Stock-Movement
-Final project (id: 201812-38) of [EECS E6893 Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html).<br/>
+Final project (id: 201812-38) of Fall 2018 [EECS E6893 Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html).<br/>
 Member: Hung-Yi Ou Yang (ho2271), Yining Zhou (yz3428), and Chenyao Liao (cl3757)
 
 ## Introduction
@@ -11,8 +11,8 @@ Our model ranked top 15% on the Kaggle leaderbaord. The result shows that news i
 Find out more about EDA under the EDA/ directory, and modelling under model/ directory. Welcome to use these scripts as entry point to this topic or competition. 
 
 ## More information
-More details inside our [technical report](http://www.graphen.ai/course/bigdata/reports/201812-38.pdf)<br/>
-[View this project](http://www.ee.columbia.edu/~cylin/course/bigdata/projects/) on course page<br/>
+More details inside our [technical report](http://www.graphen.ai/course/bigdata/reports/201812-38.pdf).<br/>
+[View this project](http://www.ee.columbia.edu/~cylin/course/bigdata/projects/) on course page.<br/>
 [Short introduction](https://www.youtube.com/watch?v=jQ_dpB4LjoE) on Youtube.
 
 
